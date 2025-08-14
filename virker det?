@@ -1,10 +1,44 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>Louises Portfolie</title>
+   <style>
+   Font 
+   {
+   		font-family: Ariel, "Times New Roman", serif;
+   }
+   header
+   {
+   		background-color: #afd7fa;
+        padding: 20px;
+        text-align: center;
+        font-size: 25px;
+        color: black;
+   }
+   Section
+   {
+   		
+   		color:white;
+   }
+   
+   
+   
+   h1
+   {
+   
+        outline-style: solid; 
+        outline-width: medium; 
+        outline-color: black;
+   }
+   
+   
+   </style>
 </head>
 <body>
+<header>
+    <h1> Louise Popp-Madsen </h1>
 
-    <h1 style="outline-width: medium; outline-color: black; background-color: aquamarine;"> Louise Popp-Madsen </h1>
+</header>
 
 </body>
 
