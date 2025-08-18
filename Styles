@@ -1,0 +1,76 @@
+Font {
+    font-family: Ariel, "Times New Roman", serif;
+}
+
+body {
+    background-image: url('img_girl.jpg');
+}
+
+header {
+    background-color: #465cf0;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+h1 {
+    outline-style: solid;
+    outline-width: medium;
+    outline-color: white;
+    
+}
+
+
+aside {
+    float: left;
+    background-color: #071ca6;
+    font-size: 50px;
+    color: white;
+    width: 35%;
+
+}
+
+a:link.Titles {
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+a:link.LinkDin {
+
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 75%;
+    bottom: 170px;
+}
+
+a:visited, a:hover, a:active {
+    background-color: #1aed52;
+    color: black;
+}
+
+
+
+section.E {
+    position: relative;
+    margin-left: 37%
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+
+p.title {
+    font-size: 20px;
+    text-decoration-line: underline;
+    font-weight: bold;
+  
+}
+
+
