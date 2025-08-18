@@ -1,44 +1,31 @@
 <!DOCTYPE html>
 <html>
+<meta charset="UTF-8">
 <head>
     <title>Louises Portfolie</title>
-   <style>
-   Font 
-   {
-   		font-family: Ariel, "Times New Roman", serif;
-   }
-   header
-   {
-   		background-color: #afd7fa;
-        padding: 20px;
-        text-align: center;
-        font-size: 25px;
-        color: black;
-   }
-   Section
-   {
-   		
-   		color:white;
-   }
-   
-   
-   
-   h1
-   {
-   
-        outline-style: solid; 
-        outline-width: medium; 
-        outline-color: black;
-   }
-   
-   
-   </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header>
-    <h1> Louise Popp-Madsen </h1>
+    <header>
+        <h1> Louise Popp-Madsen </h1>
 
-</header>
+
+    </header>
+    <aside>
+        <h2>Kontakt</h2>
+        <p> &#128383; 51910549 <br> &#128506; Hvidkloevervej 16, Tune <br> &#128386; l.poppmadsen@gmail.com <br> </p>
+        <p class="LinkDin"><a href="https://www.linkedin.com/in/louise-popp-madsen-78b6432b7/" target="_blank">Billede</a></p>
+
+    </aside>
+    <section class="E">
+        <h3 class="Titles"> <a href="https://www.linkedin.com/in/louise-popp-madsen-78b6432b7/" target="_blank"> Erfaring </a></h3>
+        <p class="title"> Gymnastik Instruktoeer </p>
+        <p>- Tune IF <br> September 2022 - Nuvaerende</p>
+
+        <p class="title"> Svoemmetraener </p>
+
+    </section>
+
 
 </body>
 
