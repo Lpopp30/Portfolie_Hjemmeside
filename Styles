@@ -1851,3 +1851,9 @@ a {
 .w3-border-pale-blue, .w3-hover-border-pale-blue:hover {
     border-color: #e7ffff !important
 }
+.Billeder-Stor {
+    width: 30%;
+}
+.Billeder-Midt {
+    margin-left: 35%;
+}
