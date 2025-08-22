@@ -168,9 +168,9 @@
     <footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
         <a href="https://github.com/Lpopp30" target="_blank" class="w3-button w3-black w3-padding-large w3-margin-bottom button">Github</a>
         <a href="https://www.linkedin.com/in/louise-popp-madsen-78b6432b7/" target="_blank" class="w3-button w3-black w3-padding-large w3-margin-bottom button">Linkedin</a>
-        <a href="mailto:l.poppmadsen@gmail.com" target="_blank" class="w3-button w3-black w3-padding-large w3-margin-bottom button">Gmail</a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=l.poppmadsen@gmail.com" target="_blank" class="w3-button w3-black w3-padding-large w3-margin-bottom button underline-link">Gmail</a>
 
-        <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+        <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">my mind</a></p>
     </footer>
 
 </body>
